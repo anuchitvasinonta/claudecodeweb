@@ -31,6 +31,7 @@ session can pick up where the last one left off without me re-explaining.
 ## Workflow
 
 - `/start` — fuller onboarding when returning after a gap
+- `/project <name>` — start a new project
 - `/wrap` — before ending a session. This is what keeps the repo useful.
 - `/decide <title>` — record a decision
 

@@ -68,7 +68,7 @@ git. That's the whole strategy.
    frontmatter. The rule loads only when Claude touches a matching file, so
    it's loud where it matters and absent where it doesn't.
 
-5. **Commands for rituals.** `/start`, `/wrap`, `/decide`. Turns a four-step
+5. **Commands for rituals.** `/start`, `/project`, `/wrap`, `/decide`. Turns a four-step
    prompt you'd have to remember into one word.
 
 6. **Skills for procedures.** `.claude/skills/<name>/SKILL.md`. Loads on
@@ -125,7 +125,7 @@ repo/
 ├── README.md
 ├── .claude/
 │   ├── settings.json         # hook wiring
-│   ├── commands/             # /start /wrap /decide
+│   ├── commands/             # /start /project /wrap /decide
 │   ├── hooks/                # session-start.sh, protect-paths.sh
 │   ├── rules/                # path-scoped constraints
 │   └── skills/               # on-demand procedures (add as needed)
@@ -215,6 +215,11 @@ you don't want a doc rewrite triggered in the middle of unrelated work.
   records, and open questions, then reports what it understands and flags
   anything that looks stale. Skip it for small tasks; the SessionStart hook
   already injects the state file.
+- **`/project <name>`** — starts a project. Asks scope questions *before*
+  creating anything, then makes the folder and adds the line to
+  `PROJECT_STATE.md`. That second half is the part worth automating: a
+  project folder that isn't registered in the status file is invisible to
+  every future session, since nothing loads `projects/` automatically.
 - **`/wrap`** — the load-bearing ritual. Updates the status file, writes a
   decision record if a real decision was made, updates open questions,
   promotes repeated corrections into rules, commits.

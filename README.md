@@ -20,7 +20,7 @@ Full reasoning and reference: **[docs/claude-code-project-brain.md](docs/claude-
 | `docs/decisions/` | Numbered decision records + the index Claude reads. |
 | `docs/working/` | Open questions. |
 | `projects/` | One folder per project. |
-| `.claude/commands/` | `/start`, `/wrap`, `/decide` |
+| `.claude/commands/` | `/start`, `/project`, `/wrap`, `/decide` |
 | `.claude/rules/` | Constraints scoped to matching file paths. |
 | `.claude/hooks/` | Session-start context injection, path guards. |
 
@@ -28,6 +28,9 @@ Full reasoning and reference: **[docs/claude-code-project-brain.md](docs/claude-
 
 - **Start a session** — `PROJECT_STATE.md` is injected automatically. Run
   `/start` for a fuller read after a gap.
+- **Start a project** — `/project <name>`. It asks what you're changing and
+  how you'll know it worked, then creates the folder and registers it in
+  `PROJECT_STATE.md`.
 - **End a session** — run `/wrap`. This is the habit that keeps the repo
   useful; without it everything here goes stale.
 - **Made a real decision?** — `/decide <title>`.
