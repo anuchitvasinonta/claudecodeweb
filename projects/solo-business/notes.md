@@ -61,15 +61,29 @@ Weekly, same sitting as the self-reflection hub review. First review:
 ## Open
 
 - **What's the service?** Not yet chosen. First piece of work.
+- **B2B or B2C?** Deliberately left open so it doesn't limit the candidate
+  services. **Closes when the stage 0 one-pager is written** — that document
+  has to name who has the problem, so it can't be written without an answer.
 
-## Decided
+## Preferences (not filters)
 
-- **B2C — direct to end customer** (2026-08-04). I prefer going direct to the
-  end customer. Not B2B, even though the existing company sells to event
-  organizers and corporates and that's where my network is. This rules out
-  candidate services that need contracts, invoicing or account management,
-  and it means distribution has to come from the product and from LINE
-  itself, not from my existing relationships.
+- **Lean B2C — direct to end customer.** I prefer going direct to the end
+  customer. But this is a tiebreaker between otherwise-equal candidates, not
+  a rule that excludes B2B ideas during generation.
+
+## Consequences to weigh when it closes
+
+Not arguments for either side — just what changes with the answer.
+
+- **Distribution.** B2B inherits my existing network: event organizers and
+  corporates who already buy from the company. B2C inherits nothing; it has
+  to come from the product and from LINE itself.
+- **Operational load, solo.** B2B is few accounts paying a lot, but with
+  contracts, invoicing and account management. B2C is many small payments and
+  support requests from individuals. Both are real work; B2C's is more
+  constant, B2B's is lumpier and harder to walk away from.
+- **What "alone" proves.** Selling to people who already know me is a weaker
+  test of the primary goal than winning customers who don't.
 
 ### Note from Claude — not agreed, just flagged
 
