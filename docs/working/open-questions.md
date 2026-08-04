@@ -6,8 +6,8 @@ the answer noted when they close.
 Format: `- **<question>** — what's blocking it / who or what it's waiting on`
 
 Nothing open at the repo level. Live questions belong to the project that
-owns them — right now that's `projects/solo-business/notes.md`, which has the
-service itself unchosen and the B2B/B2C question deliberately held open.
+owns them — right now that's `projects/solo-business/notes.md`, where the
+service, the delivery channel and B2B-vs-B2C are all deliberately open.
 Don't copy them here; a question in two files gets answered in one.
 
 <!-- Closed 2026-08-04: "Which project goes first?" — self-reflection, the

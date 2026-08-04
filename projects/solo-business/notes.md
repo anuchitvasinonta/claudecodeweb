@@ -16,24 +16,28 @@ create, set up and operate myself, so I'm in total control. Can be small.
 
 ## The idea so far
 
-**The interface is decided; the service isn't.**
+**Nothing is decided.** Not the service, not the delivery channel.
 
-LINE chat as the front end — how users interface with and access the service.
-In Thailand LINE is the most popular platform, it's on everyone's mobile
-phone. My company already offers a virtual run platform on LINE, sold to event
-organizers and corporates who want to run virtual run activities. It's quite
-successful: no app needed, easy to use, plus broadcast direct to your users
-right on the platform.
+LINE chat is not a must for me. I mentioned it based on my experience, and
+I'm open to anything that's proper for the new service to be delivered on.
 
-So the interface part I'm confident works. The service part I haven't thought
-of yet — finding it is the first piece of work.
+The experience behind the mention: in Thailand LINE is the most popular
+platform, it's on everyone's mobile phone. My company already offers a virtual
+run platform on LINE, sold to event organizers and corporates who want to run
+virtual run activities. It's quite successful: no app needed, easy to use,
+plus broadcast direct to your users right on the platform.
+
+So LINE is **proven capability, not a constraint** — I know it works and I
+know how to build on it. That's an advantage to use if a service calls for it,
+not a container to fit a service into. The channel gets chosen when the
+service does.
 
 ## What "working" looks like
 
 Staged. Each stage is binary and gets a date in `log.md` when it happens.
 
-- **0 — chosen.** A one-pager: who has the problem, why LINE specifically.
-- **1 — shipped.** A stranger can use it on LINE without me present. Not a demo.
+- **0 — chosen.** A one-pager: who has the problem, and why this channel.
+- **1 — shipped.** A stranger can use it without me present. Not a demo.
 - **2 — used.** Someone who isn't a friend comes back a second time, unprompted.
 - **3 — paid.** One real payment from one real customer. This is the bar where
   I said I'd call it real.
@@ -61,9 +65,14 @@ Weekly, same sitting as the self-reflection hub review. First review:
 ## Open
 
 - **What's the service?** Not yet chosen. First piece of work.
+- **What channel does it get delivered on?** Open. LINE is a strong candidate
+  because I've already built on it successfully, but not a requirement.
 - **B2B or B2C?** Deliberately left open so it doesn't limit the candidate
   services. **Closes when the stage 0 one-pager is written** — that document
   has to name who has the problem, so it can't be written without an answer.
+
+All three close together, in the one-pager. None of them should narrow the
+others beforehand.
 
 ## Preferences (not filters)
 
@@ -76,8 +85,8 @@ Weekly, same sitting as the self-reflection hub review. First review:
 Not arguments for either side — just what changes with the answer.
 
 - **Distribution.** B2B inherits my existing network: event organizers and
-  corporates who already buy from the company. B2C inherits nothing; it has
-  to come from the product and from LINE itself.
+  corporates who already buy from the company. B2C inherits nothing; it has to
+  come from the product and the channel itself.
 - **Operational load, solo.** B2B is few accounts paying a lot, but with
   contracts, invoicing and account management. B2C is many small payments and
   support requests from individuals. Both are real work; B2C's is more
@@ -87,15 +96,12 @@ Not arguments for either side — just what changes with the answer.
 
 ### Note from Claude — not agreed, just flagged
 
-Deciding the interface before the service is solution-first, which is a
-well-known way to end up building something nobody asked for. In this case
-it's more defensible than usual, because the LINE choice is grounded in
-direct evidence from a product that actually sells, and it's a distribution
-advantage rather than a technology preference.
+Generate service candidates without assuming a channel. Then, for each one,
+ask what it should be delivered on and let LINE win where it genuinely does —
+no app install, already on everyone's phone in Thailand, broadcast to existing
+users. Those are real advantages when a service needs them, and dead weight
+when it doesn't.
 
-The way to keep it honest: treat LINE as a **selection filter, not a
-container**. Only consider services where LINE's specific properties — no app
-install, already on the phone, broadcast to existing users — are the reason
-the thing works at all. If a candidate service would be just as good as a
-website, the LINE part is adding nothing and the idea should be rejected on
-those grounds.
+The failure mode to avoid is picking the channel first and looking for a
+service to fit it — a reliable way to build something nobody asked for. LINE
+being proven is a reason to reach for it readily, not a reason to start there.

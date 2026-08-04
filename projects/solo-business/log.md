@@ -40,3 +40,13 @@ way.
 So: B2C stays as a stated preference and tiebreaker, not a filter. The
 question closes when the stage 0 one-pager is written, since that document
 has to name who has the problem.
+
+## 2026-08-04 — corrected: LINE is not a constraint
+
+The baseline entry above records LINE as the decided interface. That
+overstated it. LINE is not a must — I mentioned it based on my experience, and
+I'm open to anything proper for the new service to be delivered on.
+
+LINE is proven capability, not a requirement: I know it works and how to build
+on it. Candidate services get generated without assuming a channel, and the
+channel gets chosen alongside the service in the stage 0 one-pager.
