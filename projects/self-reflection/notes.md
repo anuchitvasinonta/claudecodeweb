@@ -20,11 +20,21 @@ all aspects of life. Claude is the life coach.
 Each gets its own project under `projects/` for the details. This project
 holds the direction, not the detail.
 
-- **Relationships**
-- **Health** — e.g. a workout plan that takes in my feedback and keeps
-  improving
-- **Keeping up with knowledge**
 - **A self-run revenue-generating business that's innovative in this AI era**
+  — starting here first (2026-08-04). This is *not* the existing software
+  company. That company has a few revenue-generating services that my
+  engineers set up and operate, and I don't plan to add new services to it.
+  The opposite: I want to create, set up and operate something myself so I'm
+  in total control. Can be something small. I feel there should be a lot of
+  innovative ideas, and with current AI capabilities this should be possible
+  for me. I'm eager to learn new things and have some coding background.
+- **Health** — e.g. a workout plan that takes in my feedback and keeps
+  improving. Not started.
+- **Keeping up with knowledge** — not started.
+- **Relationships** — not started.
+
+Agreed 2026-08-04: start with a few aspects rather than all four at once.
+An aspect gets a folder under `projects/` when it starts, not before.
 
 ## What "working" looks like
 
@@ -69,7 +79,4 @@ decided; it's here so the next session doesn't re-derive it.
 
 ## Open
 
-- Is the "self-run revenue-generating business" the existing software company
-  restarted, something new, or undecided? I haven't been told, and it changes
-  what that aspect project looks like.
-- Which aspect project starts first, or do all four start together?
+_Nothing right now._

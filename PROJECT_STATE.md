@@ -15,8 +15,8 @@ with knowledge, and a self-run revenue-generating business.
 
 ## In progress
 
-- Deciding which aspect project to create first, or whether all four start
-  together
+- Scoping the business/revenue aspect — the first one to start. Health,
+  knowledge and relationships are named but deliberately not started.
 
 ## Blocked
 
