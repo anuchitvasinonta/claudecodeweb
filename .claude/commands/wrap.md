@@ -40,3 +40,38 @@ Constraints:
 
 Show me the doc changes before committing. Then commit with a message
 summarizing the session.
+
+## Last step — land the work on `main`
+
+**This is not optional, and it is the step that makes the whole repo work.**
+A session branch that never reaches `main` is invisible to the next session:
+it clones `main`, sees the old state, and confidently tells me things that
+stopped being true. That is the exact failure DR-001 was written to prevent.
+
+You have my standing permission to push to `main` as part of `/wrap`. You do
+not need to ask.
+
+After committing, run:
+
+```sh
+git fetch origin main
+git push origin HEAD:main
+```
+
+If that push is rejected because `main` moved ahead, don't force it. Merge and
+retry:
+
+```sh
+git merge origin/main     # resolve conflicts if any, keeping both sessions' work
+git push origin HEAD:main
+```
+
+Then verify it actually landed, and tell me the result:
+
+```sh
+git fetch origin main && git log --oneline -1 origin/main
+```
+
+`origin/main` must show this session's commit. If it doesn't, say so plainly
+rather than reporting the wrap as done — a wrap that didn't reach `main` is a
+wrap that didn't happen.
