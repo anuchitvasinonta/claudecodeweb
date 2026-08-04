@@ -17,8 +17,10 @@ with knowledge, and a self-run revenue-generating business.
 
 ## In progress
 
-- Finding the service for solo-business. Health, knowledge and relationships
-  are named but deliberately not started, and have no folders yet.
+- **solo-business, stage 0** — finding the service. LINE chat is settled as
+  the interface; nothing else about the service is. Health, knowledge and
+  relationships are named but deliberately not started, and have no folders
+  yet (DR-002).
 
 ## Blocked
 
@@ -30,10 +32,9 @@ See `docs/working/open-questions.md`.
 
 ## Next
 
-- First weekly review: 2026-08-11
-- Create the first aspect project under `projects/` via `/project`
-- Run `/wrap` at the end of this session and check that the next session picks
-  up cleanly
+- Generate and filter service candidates for solo-business. Do not filter by
+  customer type — carry a note on who'd pay for each instead.
+- First weekly review: 2026-08-11, hub and solo-business in one sitting.
 
 ---
 
