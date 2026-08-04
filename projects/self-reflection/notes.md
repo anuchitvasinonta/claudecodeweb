@@ -21,7 +21,8 @@ Each gets its own project under `projects/` for the details. This project
 holds the direction, not the detail.
 
 - **A self-run revenue-generating business that's innovative in this AI era**
-  — starting here first (2026-08-04). This is *not* the existing software
+  — started 2026-08-04 → [`projects/solo-business/`](../solo-business/notes.md).
+  This is *not* the existing software
   company. That company has a few revenue-generating services that my
   engineers set up and operate, and I don't plan to add new services to it.
   The opposite: I want to create, set up and operate something myself so I'm

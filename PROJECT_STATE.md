@@ -10,13 +10,15 @@ with knowledge, and a self-run revenue-generating business.
 
 ## Active projects
 
-- **self-reflection** — started 2026-08-04. Four aspects named, none scoped
-  yet. Weekly reviews during the beginning phase.
+- **self-reflection** — hub. Four aspects named, one started. Weekly reviews
+  during the beginning phase.
+- **solo-business** — started 2026-08-04. Stage 0 of 4: LINE chat is the
+  chosen interface, the service itself isn't picked yet.
 
 ## In progress
 
-- Scoping the business/revenue aspect — the first one to start. Health,
-  knowledge and relationships are named but deliberately not started.
+- Finding the service for solo-business. Health, knowledge and relationships
+  are named but deliberately not started, and have no folders yet.
 
 ## Blocked
 
