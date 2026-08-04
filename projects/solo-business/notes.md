@@ -61,12 +61,15 @@ Weekly, same sitting as the self-reflection hub review. First review:
 ## Open
 
 - **What's the service?** Not yet chosen. First piece of work.
-- **Who's the customer — organizations or individuals?** The existing company
-  sells B2B to event organizers and corporates, which is where my credibility
-  and network already are. But B2B means contracts, invoicing and account
-  management, all of which land on me alone. Self-serve is lighter to operate
-  solo but I'd have no distribution. Unresolved, and it shapes what services
-  are even candidates.
+
+## Decided
+
+- **B2C — direct to end customer** (2026-08-04). I prefer going direct to the
+  end customer. Not B2B, even though the existing company sells to event
+  organizers and corporates and that's where my network is. This rules out
+  candidate services that need contracts, invoicing or account management,
+  and it means distribution has to come from the product and from LINE
+  itself, not from my existing relationships.
 
 ### Note from Claude — not agreed, just flagged
 
