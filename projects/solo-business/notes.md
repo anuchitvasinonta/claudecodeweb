@@ -32,6 +32,40 @@ know how to build on it. That's an advantage to use if a service calls for it,
 not a container to fit a service into. The channel gets chosen when the
 service does.
 
+## Background I bring — explicitly not a filter
+
+Laid out 2026-08-05, in my words: *"these are not constraints or preference for
+thinking of a new service at all."* Recorded so candidate generation knows
+what's available, not to narrow what gets generated.
+
+**Training**
+
+- Telecommunications engineering; master's in DSP from Cornell.
+
+**Work history**
+
+- Telecom, IT and security for a while.
+- Started my own company with a friend. Mostly mobile software: tourism, a
+  patient mobile app for hospitals, the virtual run platform for corporates.
+- Connected with friends from Israel offering intelligence/security systems to
+  police and military — vendor-side connections there.
+- Consultant to another company building an eWallet platform — some fintech
+  background.
+
+**People I can reach**
+
+- Vendor side: Israeli intelligence/security systems suppliers.
+- Customer side: people in hospitals, runners and athletes, police.
+
+**Shape of the thing**
+
+- A software service. No hardware stock — I don't want money sunk into
+  inventory. A bit of hardware is acceptable.
+- Something I can handle by myself.
+
+This section has the same status as LINE: an asset to reach for when a
+candidate genuinely calls for it, never a place to start generating from.
+
 ## What "working" looks like
 
 Staged. Each stage is binary and gets a date in `log.md` when it happens.
