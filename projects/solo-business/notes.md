@@ -96,6 +96,21 @@ Weekly in `log.md`, one entry:
 Weekly, same sitting as the self-reflection hub review. First review:
 2026-08-11.
 
+## Answered 2026-08-05
+
+Three questions Claude asked while generating candidates. My answers:
+
+- **What "innovative in this AI era" means: AI is how I build it.** AI is the
+  leverage that lets one person build and run what used to need a team. The
+  service itself does not have to be AI-facing — well-executed conventional
+  software counts.
+- **Time available: 20+ hours a week.** Close to a main occupation. Candidates
+  with real surface area are feasible, and correspondingly more is at stake if
+  one stalls.
+- **Network: prefer strangers; network as fallback, or as an advantage where it
+  genuinely helps.** Generate and sell as if there were no network, and reach
+  for contacts when a candidate actually benefits — not by default.
+
 ## Open
 
 - **What's the service?** Not yet chosen. First piece of work.

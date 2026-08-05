@@ -156,9 +156,46 @@ Your best-connected door leads away from what you said you want.
 
 ---
 
-## What this list is missing
+## What the 2026-08-05 answers change
 
-- **You haven't said how much time per week this gets**, so nothing here is
-  filtered on build size. Sizes are noted per candidate instead.
-- **Nobody has talked to a customer.** Every "who'd pay" above is a hypothesis
-  written by Claude, not a finding. The one-pager needs the real version.
+Answers recorded in `notes.md`. Their effect on this list:
+
+- **"AI is how I build it"** — widens rather than narrows. Conventional
+  software done well is back in scope, and A1 loses its privileged position:
+  being AI-facing is no longer worth anything by itself.
+- **20+ hours a week** — B2 becomes buildable rather than fantasy. Build size
+  stops being the thing that eliminates candidates.
+- **Prefer strangers** — favours anything self-serve and pushes the
+  contact-led candidates down. Worth noting that stage 4 (revenue in a month
+  with no selling) is close to impossible for anything that only sells by
+  relationship, so this answer and the stage ladder point the same way.
+
+## Shortlist — Claude's recommendation, not agreed
+
+Three to pressure-test:
+
+1. **A3, marketplace micro-SaaS** — closest fit to "strangers", and the only
+   candidate whose distribution is solved by somebody else. Shortest road to
+   stage 4.
+2. **A2, receipts to books** — strongest recurring-revenue case in Thailand,
+   and the one where LINE earns its place on merit rather than familiarity.
+3. **B1, call review** — highest price per customer, and Thai phone audio is a
+   real barrier to the global tools that would otherwise eat it.
+
+Parked, with reasons:
+
+- **B2, acoustic monitoring** — the most defensible idea here, and the most
+  seductive, because it's the one almost nobody else could build. It also
+  fights three stated constraints at once: software service, strangers, and
+  stage 4 without selling. A hardware-touching product doesn't get used by a
+  stranger without you present, which is exactly the stage 1 bar. Park it,
+  don't discard it.
+- **A1, listing generator** — commoditised and platform-killable.
+- **C1, runners** — thin willingness to pay, churn spikes after race day.
+- **C2 and C3** — traps, see above.
+
+## What this list is still missing
+
+**Nobody has talked to a customer.** Every "who'd pay" above is a hypothesis
+written by Claude, not a finding. The one-pager needs the real version, and
+that's the next piece of work.
